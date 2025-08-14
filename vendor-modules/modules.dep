@@ -81,7 +81,6 @@
 /vendor/lib/modules/qcom_lpm.ko:
 /vendor/lib/modules/moto_mm.ko:
 /vendor/lib/modules/gpr_dlkm.ko: /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko /vendor/lib/modules/qmi_helpers.ko
-/vendor/lib/modules/asix.ko:
 /vendor/lib/modules/msm_performance.ko:
 /vendor/lib/modules/qcom_glink_smem.ko: /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/cdsprm.ko:
@@ -114,6 +113,7 @@
 /vendor/lib/modules/rmnet_ctl.ko: /vendor/lib/modules/ipa_fmwk.ko
 /vendor/lib/modules/phy-qcom-ufs-qmp-v3.ko:
 /vendor/lib/modules/rdbg.ko:
+/vendor/lib/modules/stm_st54se_gpio.ko:
 /vendor/lib/modules/icnss2.ko: /vendor/lib/modules/qti-adc-tm.ko /vendor/lib/modules/wlan_firmware_service.ko /vendor/lib/modules/qcom_ramdump.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko /vendor/lib/modules/qmi_helpers.ko
 /vendor/lib/modules/heap_mem_ext_v01.ko: /vendor/lib/modules/qmi_helpers.ko
 /vendor/lib/modules/qcom_sysmon.ko: /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko /vendor/lib/modules/qmi_helpers.ko
@@ -217,7 +217,6 @@
 /vendor/lib/modules/qrtr-smd.ko: /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/qcom_rimps.ko:
 /vendor/lib/modules/swr_haptics_dlkm.ko: /vendor/lib/modules/swr_dlkm.ko
-/vendor/lib/modules/ax88179_178a.ko:
 /vendor/lib/modules/bt_fm_slim.ko: /vendor/lib/modules/btpower.ko /vendor/lib/modules/slimbus.ko
 /vendor/lib/modules/adsp_loader_dlkm.ko: /vendor/lib/modules/spf_core_dlkm.ko /vendor/lib/modules/gpr_dlkm.ko /vendor/lib/modules/snd_event_dlkm.ko /vendor/lib/modules/q6_notifier_dlkm.ko /vendor/lib/modules/q6_pdr_dlkm.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko /vendor/lib/modules/qmi_helpers.ko
 /vendor/lib/modules/coresight-funnel.ko: /vendor/lib/modules/coresight.ko
